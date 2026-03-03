@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Spa Landing</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #f5f5f5;
+      text-align: center;
+    }
+
+    header {
+      padding: 60px 20px;
+      background: #111;
+      color: white;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+
+    p {
+      margin-top: 10px;
+      color: #ccc;
+    }
+
+    .btn {
+      margin-top: 30px;
+      display: inline-block;
+      padding: 14px 28px;
+      background: #ff4081;
+      color: white;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .btn:hover {
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>เว็บทดสอบของผม</h1>
+    <p>กำลังพัฒนา Web App</p>
+    <a href="#" class="btn">จองคิว</a>
+  </header>
+
+</body>
+</html>
